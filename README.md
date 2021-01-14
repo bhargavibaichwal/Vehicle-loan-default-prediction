@@ -8,5 +8,5 @@ Financial institutions incur losses due to defaults of vehicle loans. Hence ther
 We have two datasets 
 #### 1. Train data
 #### 2. Test data
-
-The actual code is written in ipynb.
+The code is written in the Vehicle loan default prediction.ipynb and the preprocessing of the test data is done seperately in the Test data preprocessing.ipynb file.
+The preprocessed test data is saved with the name test_preprocessed.csv. The original train and test data are present in train.csv and test.csv respectively.
